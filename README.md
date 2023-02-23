@@ -1,2 +1,3 @@
 # My-9anime-Extension
-My 9anime Extension is a Chrome browser extension that enhances the user experience on the 9anime website. It adds custom features such as a keyboard shortcut to play/pause the video, and a feature to skip the intro or credits of an episode. 
+My 9anime Extension is a Chrome browser extension that enhances the user experience on the 9anime website. It adds custom features such as a keyboard shortcut to play/pause the video, and a feature to skip the intro or credits of an episode. Additionally, the extension can display a sample dialog box when triggered by a message from the background script. The extension uses the Chrome storage API to store and retrieve user preferences.
+<img width="917" alt="Screenshot 2023-02-23 104128" src="https://user-images.githubusercontent.com/68110223/220845806-4b25eb2d-0328-4dd4-8fe6-420768299f08.png">
